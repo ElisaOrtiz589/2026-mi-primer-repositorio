@@ -1,1 +1,2 @@
-# 2026-mi-primer-repositorio
+# 2026 mi primer README
+Mi primer repositorio en Github para el curso de freeCodeCamp.
